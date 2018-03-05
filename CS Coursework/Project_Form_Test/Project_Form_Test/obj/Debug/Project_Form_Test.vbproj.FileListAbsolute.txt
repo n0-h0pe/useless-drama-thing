@@ -1,0 +1,3 @@
+S:\Student Transfer\Computer Science\KS5\Y12\Harris Bowman\Project_Form_Test\Project_Form_Test\obj\Debug\Project_Form_Test.Login.resources
+S:\Student Transfer\Computer Science\KS5\Y12\Harris Bowman\Project_Form_Test\Project_Form_Test\obj\Debug\Project_Form_Test.Resources.resources
+S:\Student Transfer\Computer Science\KS5\Y12\Harris Bowman\Project_Form_Test\Project_Form_Test\obj\Debug\Project_Form_Test.vbproj.GenerateResource.Cache
